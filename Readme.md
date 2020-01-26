@@ -2,7 +2,7 @@
 
 * Студент: [Вероника Щербинина](https://up.htmlacademy.ru/htmlcss/27/user/1337253).
 
----
+---bhdfb
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
